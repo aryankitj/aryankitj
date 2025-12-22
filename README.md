@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing my frontend web evelopment jourdney. </br>👯 I’m looking to collaborate on interesting web development projects. 🤝 I’m looking for help with backend development and JavaScript frameworks. </br>🌱 I’m currently learning backend technologies and soon will dive into Web 3. </br>💬 Ask me about frontend development, design challenges, or anything tech! </br>⚡ Fun fact: I love bridging the gap between creativity and functionality in websites. Soon, Web 3 will be my playground!
+🔭 I’m currently working on finishing my fullstack web evelopment journey. </br>👯 I’m looking to collaborate on interesting web development projects. 🤝 I’m looking for help with Devops. </br>🌱 I’m currently learning GenAI and soon will dive into More things. </br>💬 Ask me about web development, design challenges, or anything tech! </br>⚡ Fun fact: I love bridging the gap between creativity and functionality in websites. Soon, AI ML will be my playground!
 
 
 ## 🌐 Socials:
