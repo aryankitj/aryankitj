@@ -223,7 +223,7 @@ AI-based Interview Assessment & Skill Evaluation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aryankitj/aryankitj/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/aryankitj/aryankitj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
