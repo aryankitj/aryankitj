@@ -202,7 +202,7 @@ AI-based Interview Assessment & Skill Evaluation
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -237,7 +237,7 @@ AI-based Interview Assessment & Skill Evaluation
 </div>
 
 ---
-
+-->
 ## 🎯 Currently
 
 ```yaml
